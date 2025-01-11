@@ -6,6 +6,8 @@
 
 - [Автоматизация тестирования веб-интерфейсов](https://github.com/MashaOsipova/MashaOsipova/blob/main/HomeworkAutoWebTesting.md)
 
+- [Тестирование мобильных приложений](https://github.com/MashaOsipova/MashaOsipova/blob/main/mobiletesting.md)
+
 - [Тестирование производительности](https://github.com/MashaOsipova/MashaOsipova/blob/main/HomeworkLoadQA.md)
 
 - [Тестирование безопасности](https://github.com/MashaOsipova/MashaOsipova/blob/main/ibQA.md)
