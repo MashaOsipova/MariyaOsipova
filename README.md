@@ -1,3 +1,10 @@
+
+# Привет! Меня зовут Мария!
+**Я инженер по тестированию программного обеспечения**
+
+**Вот, что я умею :smiley:**
+
+
 - [Java для тестировщиков](https://github.com/MashaOsipova/MashaOsipova/blob/main/JavaHomework.md)
 
 - [Автоматизированное тестирование](https://github.com/MashaOsipova/MariyaOsipova/blob/main/HomeworkAutoTest.md)
