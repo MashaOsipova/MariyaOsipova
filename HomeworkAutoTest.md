@@ -1,3 +1,8 @@
+## Автоматизированое тестирование
+
+- [Домашнее задание](https://github.com/netology-code/aqa-homeworks)
+  =
+
 - [Тестирование API. CI](https://github.com/MashaOsipova/AppVeyor)
 
 - [Тестирование веб-интерфейсов, Selenium и Selenide](https://github.com/MashaOsipova/1.2.Selenium)
