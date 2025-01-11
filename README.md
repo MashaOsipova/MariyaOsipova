@@ -1,3 +1,5 @@
+- [Java для тестировщиков](https://github.com/MashaOsipova/MashaOsipova/blob/main/JavaHomework.md)
+
 - [Автоматизированное тестирование](https://github.com/MashaOsipova/MariyaOsipova/blob/main/HomeworkAutoTest.md)
 
 - [JavaScript для тестировщиков](https://github.com/MashaOsipova/JS_homeworks)
