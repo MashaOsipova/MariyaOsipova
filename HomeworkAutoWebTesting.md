@@ -1,6 +1,6 @@
 ## Автоматизированное тестирование веб-интерфейсов
 
-- [Домашние задания](https://github.com/netology-code/jsaqa-homeworks)
+- [Домашнее задания](https://github.com/netology-code/jsaqa-homeworks)
   =
 
 - [Debugger](https://github.com)
