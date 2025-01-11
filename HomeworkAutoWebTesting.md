@@ -1,5 +1,8 @@
 ## Автоматизированное тестирование
 
+- [Домашние задания](https://github.com/netology-code/jsaqa-homeworks)
+  =
+
 - [Debugger](https://github.com)
 
 - [Node](https://github.com/MashaOsipova/-Node.js)
