@@ -11,7 +11,7 @@
 - [1.5](https://docs.google.com/spreadsheets/d/1JCACo5rlxjHNmfSpoA72S1WspKNYBSBD1hhGfXfiVEc/edit?gid=0#gid=0)
 - [1.6](https://docs.google.com/spreadsheets/d/1P1-rMYaRtFuhqKHQB0rlZZS1Y2ypaID6kRmcfa5uyiQ/edit?gid=0#gid=0)
 
-## Автоматизация тестирование мобильных приложений
+## Автоматизация тестирования мобильных приложений
 -	[2.1](https://github.com/MashaOsipova/MAQ-2.1)
 -	[2.2](https://github.com/MashaOsipova/MAQ-2.2)
 -	[2.5](https://github.com/MashaOsipova/MQA-2.5)
