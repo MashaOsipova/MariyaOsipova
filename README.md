@@ -2,8 +2,9 @@
 
 - [JavaScript для тестировщиков](https://github.com/MashaOsipova/JS_homeworks)
 
-
 - [Автоматизация тестирования веб-интерфейсов](https://github.com/MashaOsipova/MariyaOsipova/blob/main/HomeworkAutomatedTesting.md)
+
+- [Тестирование производительности](https://github.com/MashaOsipova/MashaOsipova/blob/main/HomeworkLoadQA.md)
 
 ## Сертификаты Нетологии
 
